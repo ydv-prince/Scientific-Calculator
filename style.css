@@ -29,8 +29,8 @@ button {
 .equal-button {
     font-size: 15px;
     font-weight: 600;
-    color: white;
-    background-color: rgb(184, 188, 51);
+    color: black;
+    background-color: white;
     padding: 25px;
     border: none;
     border-radius: 50%;
