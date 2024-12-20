@@ -26,6 +26,15 @@ button {
     border: none;
     border-radius: 50%;
 }
+.equal-button {
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    background-color: #8e912e;
+    padding: 25px;
+    border: none;
+    border-radius: 50%;
+}
 .js-input {
     font-size: 18px;
     font-weight: 600;
